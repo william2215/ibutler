@@ -1,0 +1,16 @@
+{
+  "name": "butler",
+  "version": "1.0.0",
+  "description": "prueba",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "william",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.6",
+    "electron-prompt": "^1.3.1"
+  },
+  "devDependencies": {}
+}
